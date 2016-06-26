@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-import websocket
+import websockets
 import urllib.request
 import payloads
 import time
